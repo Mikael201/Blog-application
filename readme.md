@@ -1,6 +1,6 @@
---Blog application created with Laravel framework. In the website, it is possible to register, login, post blogs, edit (own) blogs and delete (own) blogs. Relational Database MySQL is used. See the pictures folder for screenshots from the application.
+Blog application created with Laravel framework. In the website, it is possible to register, login, post blogs, edit (own) blogs and delete (own) blogs. Relational Database MySQL is used. See the pictures folder for screenshots from the application.
 
-Thank you to Traversy Media Youtube channel for an awesome Laravel course. --
+Thank you to Traversy Media Youtube channel for an awesome Laravel course.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
